@@ -1,2 +1,2 @@
 # SQLite-Usage-with-C Sharp
-SQLite Usage with C#  Create/Insert/Update
+SQLite Usage in C#  Create/Insert/Update
